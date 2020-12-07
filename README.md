@@ -10,43 +10,43 @@ http://live.audiohacklab.org/isolinux/AHL_BusterDog-2020-12-05_32-bit.iso
 -----------------------------
 Minimum Hardware Requirements
 -----------------------------
-Storage: 6 GB
-RAM: 384 MB
-CPU: Intel/AMD X86 
+Storage: 6 GB  
+RAM: 384 MB  
+CPU: Intel/AMD X86   
 
 -------------
 Login details
 -------------
-root with password root
-ahl with password ahl
+**root** with password **root**  
+**ahl** with password **ahl**  
 
 ---------------------
 Release audio content
 ---------------------
-* KXStudio Applications (more info: https://kx.studio/Applications)
-* Ardour
-* Audacity
-* Helm
-* LMMS
-* ORCA-c
-* Puredata
-* Super Collider
-* ninjam server (ninjamsrv)
-* ninjam client (cninjam & JamTaba)
-* oscgroups e oscpack
-* norns
-* open-stage-control
-* foxdot
-* jack
-* jackeq
-* qjackctl
-* jamin
-* surge-synthesizer
-* helm
-* hydrogen
-* automatonism
-* arrast_vj
-* mixxx
-* soundkonverter
-* csoundqt
-* palemoon-jack
+* KXStudio Applications (more info: https://kx.studio/Applications)  
+* Ardour  
+* Audacity   
+* Helm   
+* LMMS   
+* ORCA-c   
+* Puredata   
+* Super Collider   
+* ninjam server (ninjamsrv)   
+* ninjam client (cninjam & JamTaba)   
+* oscgroups e oscpack   
+* norns   
+* open-stage-control   
+* foxdot   
+* jack   
+* jackeq   
+* qjackctl   
+* jamin   
+* surge-synthesizer   
+* helm   
+* hydrogen   
+* automatonism   
+* arrast_vj   
+* mixxx   
+* soundkonverter   
+* csoundqt   
+* palemoon-jack   
