@@ -3,9 +3,7 @@ This repository will collect the research results of the Audio HackLab collectiv
 The first contribution to the FOSS audio community is a new and up to date GNU/Linux distribution that we colloquially call **AHL BusterDog**.    
 It's based on Debian Buster branch without systemd and Debian dog tools (busterdog) with the addition of the Kxstudio apps.
 
-Here's the torrent for the download:
-
-![AHL BusterDog](live.audiohacklab.org/isolinux/AHL_BusterDog-2020-12-05_32-bit.torrent)
+Here's the ![torrent](live.audiohacklab.org/isolinux/AHL_BusterDog-2020-12-05_32-bit.torrent) for the download.
 
 ## AHL BusterDog 
 -----------------------------
