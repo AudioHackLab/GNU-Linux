@@ -48,7 +48,6 @@ Release 2020-12-05_32-bit audio content
 * qjackctl   
 * jamin   
 * surge-synthesizer   
-* helm   
 * hydrogen   
 * automatonism   
 * arrast_vj   
